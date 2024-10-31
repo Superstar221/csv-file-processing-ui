@@ -16,14 +16,14 @@ This React application allows users to upload and process CSV and Excel files wi
 
 Create a `.env.development` file with the following variables:
 
-REACT_APP_API_URL=http://localhost:3000/api
+REACT_APP_API_URL=http://localhost:8000/api
 REACT_APP_MAX_FILE_SIZE=5242880
 
 ## Getting Started
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/file-upload-app.git
+git clone https://github.com/Superstar221/csv-file-processing-ui.git
 ```
 2. Install dependencies:
 ```bash
